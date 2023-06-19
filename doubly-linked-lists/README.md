@@ -1,4 +1,12 @@
-# Linked List
+# Doubly Linked List
+
+## NOTES
+
+This is an exercise from exercism.org -> [here](https://exercism.org/tracks/c/exercises/linked-list). took me a frustratingly long amount of time, and had to rewrite it many times from scratch (didn't actually have to, but i was so pissed, i rm -r'd the dir). 
+
+I'm being mentored by @siebenschlaefer currently on [exercism.org](https://exercism.org). He's very knowledgeable and a very good teacher. +15 social credit :)
+
+---
 
 Welcome to Linked List on Exercism's C Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
