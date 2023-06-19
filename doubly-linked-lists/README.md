@@ -4,7 +4,7 @@
 
 This is an exercise from exercism.org -> [here](https://exercism.org/tracks/c/exercises/linked-list). took me a frustratingly long amount of time, and had to rewrite it many times from scratch (didn't actually have to, but i was so pissed, i rm -r'd the dir). 
 
-I'm being mentored by @siebenschlaefer currently on [exercism.org](https://exercism.org). He's very knowledgeable and a very good teacher. +15 social credit :)
+I'm being mentored by @[siebenschlaefer](https://github.com/siebenschlaefer) currently on [exercism.org](https://exercism.org). He's very knowledgeable and a very good teacher. +15 social credit :)
 
 ---
 
